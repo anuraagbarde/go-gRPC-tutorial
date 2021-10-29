@@ -1,4 +1,4 @@
-module grpcTutorial
+module github.com/anuraagbarde/go-gRPC-tutorial
 
 go 1.16
 
